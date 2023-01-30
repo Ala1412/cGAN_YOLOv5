@@ -8,7 +8,7 @@ object detection accuracy on the road. After getting the dehazed results from cG
 The dehazing part took https://github.com/thatbrguy/Dehaze-GAN as a reference. Number of layers and activation function are modified to enhance dehaze ability.
 
 ## YOLOv5 object detection
-
+The training and detection take the colab of https://github.com/ultralytics/yolov5 as reference.
 # Download our custom dataset and models
 | Dataset  | cGAN model | YOLOv5 model |
 | ------------- | ------------- | ------------- |
